@@ -1,10 +1,11 @@
 package kafkify
 
 import (
-	"kakify/config"
-	"kakify/consumer"
-	"kakify/producer"
 	"log"
+
+	"github.com/DecodeWorms/kakify/config"
+	"github.com/DecodeWorms/kakify/consumer"
+	"github.com/DecodeWorms/kakify/producer"
 
 	"github.com/IBM/sarama"
 )

@@ -1,4 +1,5 @@
-module kakify
+module github.com/DecodeWorms/kakify
+
 
 go 1.20
 
